@@ -1,0 +1,24 @@
+﻿由于发现我们提供的测试和评测样例在Linux平台下经常性地发生程序崩溃，所以暂时无法发布Linux下的版本，
+
+还请希望使用Linux的同学谅解；由于Windows下的UI界面和编程环境更完善易用，建议原本打算使用Linux
+的同学
+采用Windows版本；使用Mac的同学由于较少装双系统，可以采用我们提供的Mac版本完成大作业；每个
+版本的具体
+使用方法请见各自目录下的文档说明。
+
+
+
+We are currently unable to distribute the Linux version of the AI project due to
+the observation 
+that many of the testcases may crash occassionally in Linux. We 
+express our sincere sorry to the 
+Linux users; For the fact that the UI interface
+and programming environment on Windows are better 
+tested and easy-to-use, we 
+recommend the Linux users to adopt the Windows version for the project. 
+Mac users 
+can use the provided Mac version directly because many of you may have only installed
+the 
+Mac OS on your machine. For the detailed instructions on how to finish the project,
+please read the 
+readme documents included in the directory of each version.
